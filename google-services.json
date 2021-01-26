@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "216075309466",
+    "firebase_url": "https://soyocofficial-238dd.firebaseio.com",
+    "project_id": "soyocofficial-238dd",
+    "storage_bucket": "soyocofficial-238dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216075309466:android:cc6994094de833f0732a23",
+        "android_client_info": {
+          "package_name": "com.example.soyoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216075309466-krelom51nv9m9jtp93acve6odrgs1gec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuqjqXmCRrtzz6Pe-a5Xrbkh3Gi6xE9So"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216075309466-krelom51nv9m9jtp93acve6odrgs1gec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
